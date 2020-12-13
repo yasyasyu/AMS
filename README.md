@@ -1,4 +1,4 @@
-# EnExMgmt-p1
+# AMS
 ## 概要
 大阪電気通信大学情報通信工学部でのハッカソン提出作品。
  
@@ -23,8 +23,8 @@
 [Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1bU7MB-2ilCXyXzAKiwMG6wuOpP0hoI-oNDFW0h_naJw/edit?usp=sharing)
  
  
-## プレゼン動画(OECUでのみ閲覧可能)
-https://drive.google.com/file/d/1iLeQqFqhRwqwDHbqyT9RK_AQpUWrt29U/view?usp=sharing
+## プレゼン動画
+https://drive.google.com/file/d/1fHsch-6pyicQIABlDChUKoZ-o2sVObsu/view?usp=sharing
  
 ## セットアップ【使い方】
 ### ラズパイの設定
